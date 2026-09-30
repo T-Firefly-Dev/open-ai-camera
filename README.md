@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/17907553306295.png" alt="OPEN AI-CAMERA" width="100%">
-
 # OPEN AI-CAMERA
 
 **Open Source 2-Axis Gimbal AI Camera**
@@ -23,6 +21,12 @@ English · [简体中文](locales/README.zh-CN.md)
 **OPEN AI-CAMERA** is an open-source 2-axis pan-tilt AI camera built on the Rockchip RV1126B platform. It is designed for **edge AI vision, real-time object tracking, scene capture and embedded vision research**.
 
 A proper edge AI camera has to do three things well: **see clearly**, **stay steady**, and **think on-device**. OPEN AI-CAMERA ships all three out of the box — an 8MP sensor, an integrated 2-axis pan-tilt mechanism, and a 3 TOPS NPU capable of running quantized models locally without any cloud dependency.
+
+<div align="center">
+
+<a href="assets/17907585486100_en.png"><img src="assets/17907585486100_en.png" alt="OPEN AI-CAMERA Project Poster" width="400"></a>
+
+</div>
 
 ---
 

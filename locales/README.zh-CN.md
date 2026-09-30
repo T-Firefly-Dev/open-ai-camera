@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="../assets/17907535747735.png" alt="OPEN AI-CAMERA" width="100%">
-
 # OPEN AI-CAMERA
 
 **开源二轴云台 AI 摄像机**
@@ -23,6 +21,12 @@
 **OPEN AI-CAMERA** 是一台基于 Rockchip RV1126B 平台的开源二轴云台 AI 摄像机，面向 **端侧 AI 视觉、实时目标跟踪、场景采集与嵌入式视觉研究**。
 
 一台合格的端侧 AI 摄像机要同时做好三件事：**看得清、看得稳、想得快**。OPEN AI-CAMERA 出厂即配齐——8MP 传感器负责看得清，一体化二轴云台负责看得稳，3 TOPS NPU 负责在本地跑量化模型、无需依赖云端。
+
+<div align="center">
+
+<a href="../assets/17907549752300.png"><img src="../assets/17907549752300.png" alt="OPEN AI-CAMERA Project Poster" width="400"></a>
+
+</div>
 
 ---
 
